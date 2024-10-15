@@ -9,6 +9,7 @@
 - [🛠️ Technology Stack](#-technology-stack)
 - [⚙️ How It Works](#-how-it-works)
 - [🛠️ Future Enhancements](#-future-enhancements)
+- [🔒 Why the Code is Not Open-Sourced](#-why-the-code-is-not-open-sourced)
 - [📫 Contact](#-contact)
 
 ## 🌟 Overview
@@ -94,6 +95,13 @@ I built the RuneScape Trade Assistant to create an interesting and challenging p
 - **Code Optimizations** ⚡
   - Refactor backend processes for improved performance and maintainability.
   - Enhance frontend responsiveness and speed to handle larger datasets efficiently.
+  - 
+ ## 🔒 Why the Code is Not Open-Sourced
+
+Unlike most portfolio projects that are open-sourced, I’ve chosen not to share the source code for the RuneScape Trade Assistant publicly. The primary reason is to protect the competitive advantage that this tool offers. If many people were to use the software simultaneously, it would drastically reduce the margins in the game and undermine the utility of the tool for serious traders.
+
+However, I do plan to make the software available for others to use by hosting it online in future versions. This way, users will still benefit from its functionality without diluting its value across the RuneScape economy. Keep an eye out for upcoming releases where the tool will be accessible to a limited number of users.
+
 
 ## 📫 Contact
 
