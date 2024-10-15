@@ -97,4 +97,4 @@ I built the RuneScape Trade Assistant to create an interesting and challenging p
 
 ## 📫 Contact
 
-For inquiries or feedback, please reach out to [ben.infantino97@gmail.com]
+For inquiries or feedback, please reach out to ben.infantino97@gmail.com
